@@ -9,9 +9,12 @@
 
 [한국어](README.md) · [English](README.en.md) · 简体中文 · [日本語](README.ja.md)
 
-### [⬇ 下载（Windows 10 · 11 · 64 位）](https://github.com/develckm86/mac_shot/releases/latest)
+### [⬇ 下载 ScreenCapture.exe（Windows 10 · 11 · 64 位）](https://github.com/develckm86/mac_shot/releases/latest/download/ScreenCapture.exe)
 
-免费 · 免安装 · 无需账号
+免费 · 免安装 · 无需账号 · 下载后直接运行
+
+需要录屏功能的话，请一并下载 [`ffmpeg.exe`](https://github.com/develckm86/mac_shot/releases/latest/download/ffmpeg.exe) 并放在**同一个文件夹**里。
+([两个文件打包的 zip](https://github.com/develckm86/mac_shot/releases/latest/download/ScreenCapture-0.4.0-win64.zip))
 
 <!-- Microsoft Store 上架后，取消下面一行的注释并填入链接。
 [<img src="https://get.microsoft.com/images/zh-CN%20dark.svg" width="200" alt="在 Microsoft Store 获取">](https://apps.microsoft.com/detail/你的商店ID)
@@ -89,10 +92,12 @@ macOS 截图的选项菜单，条目和顺序都一样 —— 只多了一项：
 
 ## 安装
 
-1. [下载最新版本](https://github.com/develckm86/mac_shot/releases/latest)。
-2. 解压后把 `ScreenCapture.exe` 和 `ffmpeg.exe` 放在**同一个文件夹**里。
-   （`ffmpeg.exe` 只用于录屏，只截图的话可以不要。）
-3. 运行即可，直接进入通知区域。无需安装，也不需要管理员权限。
+1. 下载 [`ScreenCapture.exe`](https://github.com/develckm86/mac_shot/releases/latest/download/ScreenCapture.exe)，放到任意文件夹。
+2. 双击运行，直接进入通知区域。**无需安装，也不需要管理员权限。**
+3. 需要录屏的话，把 [`ffmpeg.exe`](https://github.com/develckm86/mac_shot/releases/latest/download/ffmpeg.exe) 下载到**同一个文件夹**。
+   没有它也能截图，只是录屏功能不可用。
+
+不想用了直接删掉文件即可，只有设置会留在 `%APPDATA%\ScreenCapture`。
 
 > 可执行文件没有代码签名，首次运行时 SmartScreen 可能会拦一次：
 > 点**更多信息 → 仍要运行**。

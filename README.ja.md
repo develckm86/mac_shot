@@ -9,9 +9,12 @@
 
 [한국어](README.md) · [English](README.en.md) · [简体中文](README.zh-CN.md) · 日本語
 
-### [⬇ ダウンロード（Windows 10 · 11 · 64bit）](https://github.com/develckm86/mac_shot/releases/latest)
+### [⬇ ScreenCapture.exe をダウンロード（Windows 10 · 11 · 64bit）](https://github.com/develckm86/mac_shot/releases/latest/download/ScreenCapture.exe)
 
-無料 · インストール不要 · アカウント不要
+無料 · インストール不要 · アカウント不要 · ダウンロードしてそのまま実行
+
+画面収録も使うなら [`ffmpeg.exe`](https://github.com/develckm86/mac_shot/releases/latest/download/ffmpeg.exe) も入手して**同じフォルダー**に置いてください。
+([2 つをまとめた zip](https://github.com/develckm86/mac_shot/releases/latest/download/ScreenCapture-0.4.0-win64.zip))
 
 <!-- Microsoft Store の公開後、下の行のコメントを外して URL を入れてください。
 [<img src="https://get.microsoft.com/images/ja%20dark.svg" width="200" alt="Microsoft Store で入手">](https://apps.microsoft.com/detail/ストアID)
@@ -93,10 +96,12 @@ Mac の `Cmd` を `Ctrl` に置き換えただけです。
 
 ## インストール
 
-1. [最新のリリースをダウンロード](https://github.com/develckm86/mac_shot/releases/latest)します。
-2. 展開して `ScreenCapture.exe` と `ffmpeg.exe` を**同じフォルダー**に置きます。
-   （`ffmpeg.exe` は画面収録にだけ使います。キャプチャだけなら不要です。）
-3. 実行するとそのまま通知領域に入ります。インストールも管理者権限も不要です。
+1. [`ScreenCapture.exe`](https://github.com/develckm86/mac_shot/releases/latest/download/ScreenCapture.exe) をダウンロードし、好きなフォルダーに置きます。
+2. 実行するとそのまま通知領域に入ります。**インストールも管理者権限も不要です。**
+3. 画面収録を使うなら [`ffmpeg.exe`](https://github.com/develckm86/mac_shot/releases/latest/download/ffmpeg.exe) を**同じフォルダー**に置きます。
+   なくてもキャプチャは動きます — 収録だけが使えなくなります。
+
+不要になったらファイルを削除するだけです。設定だけが `%APPDATA%\ScreenCapture` に残ります。
 
 > 署名なしの実行ファイルなので、初回起動時に SmartScreen が一度確認してきます。
 > **詳細情報 → 実行**を選んでください。

@@ -9,9 +9,12 @@ Drag a region and the PNG lands on your desktop right there.
 
 [한국어](README.md) · English · [简体中文](README.zh-CN.md) · [日本語](README.ja.md)
 
-### [⬇ Download (Windows 10 · 11 · 64-bit)](https://github.com/develckm86/mac_shot/releases/latest)
+### [⬇ Download ScreenCapture.exe (Windows 10 · 11 · 64-bit)](https://github.com/develckm86/mac_shot/releases/latest/download/ScreenCapture.exe)
 
-Free · No installer · No account
+Free · No installer · No account · Run it straight from the download
+
+For screen recording, also grab [`ffmpeg.exe`](https://github.com/develckm86/mac_shot/releases/latest/download/ffmpeg.exe) and keep it **in the same folder**.
+([Both files in one zip](https://github.com/develckm86/mac_shot/releases/latest/download/ScreenCapture-0.4.0-win64.zip))
 
 <!-- Once the Microsoft Store listing is live, uncomment the line below and fill in the URL.
 [<img src="https://get.microsoft.com/images/en%20dark.svg" width="200" alt="Get it from Microsoft">](https://apps.microsoft.com/detail/YOUR-STORE-ID)
@@ -98,10 +101,12 @@ they do on a Mac.
 
 ## Install
 
-1. [Grab the latest release](https://github.com/develckm86/mac_shot/releases/latest).
-2. Unzip and keep `ScreenCapture.exe` and `ffmpeg.exe` **in the same folder**.
-   (`ffmpeg.exe` is only used for screen recording — capture works without it.)
-3. Run it. It goes straight to the tray. No installer, no admin rights.
+1. Download [`ScreenCapture.exe`](https://github.com/develckm86/mac_shot/releases/latest/download/ScreenCapture.exe) and put it wherever you like.
+2. Run it. It goes straight to the tray. **No installer, no admin rights.**
+3. For screen recording, also download [`ffmpeg.exe`](https://github.com/develckm86/mac_shot/releases/latest/download/ffmpeg.exe) into the **same folder**.
+   Without it, capture still works — only recording is unavailable.
+
+To remove it, delete the file. Only your settings stay, in `%APPDATA%\ScreenCapture`.
 
 > The executable is unsigned, so SmartScreen may ask once on first run:
 > **More info → Run anyway**.

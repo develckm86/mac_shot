@@ -9,9 +9,12 @@
 
 한국어 · [English](README.en.md) · [简体中文](README.zh-CN.md) · [日本語](README.ja.md)
 
-### [⬇ 내려받기 (Windows 10 · 11 · 64비트)](https://github.com/develckm86/mac_shot/releases/latest)
+### [⬇ ScreenCapture.exe 내려받기 (Windows 10 · 11 · 64비트)](https://github.com/develckm86/mac_shot/releases/latest/download/ScreenCapture.exe)
 
-무료 · 설치 필요 없음 · 계정 없음
+무료 · 설치 필요 없음 · 계정 없음 · 받아서 바로 실행
+
+화면 기록까지 쓰려면 [`ffmpeg.exe`](https://github.com/develckm86/mac_shot/releases/latest/download/ffmpeg.exe) 도 받아 **같은 폴더**에 두세요.
+([두 파일을 한 번에 받는 zip](https://github.com/develckm86/mac_shot/releases/latest/download/ScreenCapture-0.4.0-win64.zip))
 
 <!-- Microsoft Store 등록이 끝나면 아래 두 줄의 주석을 풀고 URL 을 채우세요.
 [<img src="https://get.microsoft.com/images/ko%20dark.svg" width="200" alt="Microsoft Store에서 받기">](https://apps.microsoft.com/detail/여기에-스토어-ID)
@@ -93,10 +96,12 @@
 
 ## 설치
 
-1. [릴리스에서 최신 파일을 내려받습니다](https://github.com/develckm86/mac_shot/releases/latest).
-2. 압축을 풀고 `ScreenCapture.exe` 와 `ffmpeg.exe` 를 **같은 폴더**에 둡니다.
-   (`ffmpeg.exe` 는 화면 기록에만 씁니다. 캡처만 쓸 거면 없어도 됩니다.)
-3. 실행하면 트레이에 들어갑니다. 설치 과정도, 관리자 권한도 필요 없습니다.
+1. [`ScreenCapture.exe`](https://github.com/develckm86/mac_shot/releases/latest/download/ScreenCapture.exe) 를 받아 원하는 폴더에 둡니다.
+2. 실행하면 트레이에 들어갑니다. **설치 과정도, 관리자 권한도 필요 없습니다.**
+3. 화면 기록을 쓸 거라면 [`ffmpeg.exe`](https://github.com/develckm86/mac_shot/releases/latest/download/ffmpeg.exe) 를 받아 **같은 폴더**에 둡니다.
+   캡처만 쓸 거면 없어도 됩니다 — 기록 기능만 조용히 비활성화됩니다.
+
+지우고 싶으면 파일을 지우면 끝입니다. 설정만 `%APPDATA%\ScreenCapture` 에 남습니다.
 
 > 서명되지 않은 실행 파일이라 처음 실행할 때 SmartScreen 이 한 번 물어볼 수 있습니다.
 > **추가 정보 → 실행**을 누르면 됩니다.
