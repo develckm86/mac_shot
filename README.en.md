@@ -14,7 +14,7 @@ Drag a region and the PNG lands on your desktop right there.
 Free · No installer · No account · Run it straight from the download
 
 For screen recording, also grab [`ffmpeg.exe`](https://github.com/develckm86/mac_shot/releases/latest/download/ffmpeg.exe) and keep it **in the same folder**.
-([Both files in one zip](https://github.com/develckm86/mac_shot/releases/latest/download/ScreenCapture-0.4.0-win64.zip))
+([Both files in one zip](https://github.com/develckm86/mac_shot/releases/latest/download/ScreenCapture-win64.zip))
 
 <!-- Once the Microsoft Store listing is live, uncomment the line below and fill in the URL.
 [<img src="https://get.microsoft.com/images/en%20dark.svg" width="200" alt="Get it from Microsoft">](https://apps.microsoft.com/detail/YOUR-STORE-ID)

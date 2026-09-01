@@ -14,7 +14,7 @@
 무료 · 설치 필요 없음 · 계정 없음 · 받아서 바로 실행
 
 화면 기록까지 쓰려면 [`ffmpeg.exe`](https://github.com/develckm86/mac_shot/releases/latest/download/ffmpeg.exe) 도 받아 **같은 폴더**에 두세요.
-([두 파일을 한 번에 받는 zip](https://github.com/develckm86/mac_shot/releases/latest/download/ScreenCapture-0.4.0-win64.zip))
+([두 파일을 한 번에 받는 zip](https://github.com/develckm86/mac_shot/releases/latest/download/ScreenCapture-win64.zip))
 
 <!-- Microsoft Store 등록이 끝나면 아래 두 줄의 주석을 풀고 URL 을 채우세요.
 [<img src="https://get.microsoft.com/images/ko%20dark.svg" width="200" alt="Microsoft Store에서 받기">](https://apps.microsoft.com/detail/여기에-스토어-ID)

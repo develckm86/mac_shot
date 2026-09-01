@@ -14,7 +14,7 @@
 無料 · インストール不要 · アカウント不要 · ダウンロードしてそのまま実行
 
 画面収録も使うなら [`ffmpeg.exe`](https://github.com/develckm86/mac_shot/releases/latest/download/ffmpeg.exe) も入手して**同じフォルダー**に置いてください。
-([2 つをまとめた zip](https://github.com/develckm86/mac_shot/releases/latest/download/ScreenCapture-0.4.0-win64.zip))
+([2 つをまとめた zip](https://github.com/develckm86/mac_shot/releases/latest/download/ScreenCapture-win64.zip))
 
 <!-- Microsoft Store の公開後、下の行のコメントを外して URL を入れてください。
 [<img src="https://get.microsoft.com/images/ja%20dark.svg" width="200" alt="Microsoft Store で入手">](https://apps.microsoft.com/detail/ストアID)

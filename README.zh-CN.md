@@ -14,7 +14,7 @@
 免费 · 免安装 · 无需账号 · 下载后直接运行
 
 需要录屏功能的话，请一并下载 [`ffmpeg.exe`](https://github.com/develckm86/mac_shot/releases/latest/download/ffmpeg.exe) 并放在**同一个文件夹**里。
-([两个文件打包的 zip](https://github.com/develckm86/mac_shot/releases/latest/download/ScreenCapture-0.4.0-win64.zip))
+([两个文件打包的 zip](https://github.com/develckm86/mac_shot/releases/latest/download/ScreenCapture-win64.zip))
 
 <!-- Microsoft Store 上架后，取消下面一行的注释并填入链接。
 [<img src="https://get.microsoft.com/images/zh-CN%20dark.svg" width="200" alt="在 Microsoft Store 获取">](https://apps.microsoft.com/detail/你的商店ID)
