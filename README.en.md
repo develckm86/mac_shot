@@ -131,7 +131,7 @@ The app is free and funded by ads. A square banner appears above the taskbar
 - It is always labelled as an ad and always has a ✕.
 - It is dismissed before a capture starts — **it never ends up in your
   screenshots or recordings.**
-- It never blocks a capture. With no internet, nothing is shown.
+- It never blocks a capture. With no internet the slot simply stays empty.
 - Beyond fetching the banner image, **no data is collected or transmitted.**
   Your captures stay in the folder you chose.
 
