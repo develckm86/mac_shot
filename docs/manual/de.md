@@ -1,4 +1,4 @@
-# 스크린샷 0.3.0 — Kurzbefehle
+# ScreenCapture 0.4.4 — Kurzbefehle
 
 Läuft im Infobereich. Es öffnet sich kein Fenster.
 

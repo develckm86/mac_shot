@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="docs/images/00-icon.png" width="88" alt="">
+<img src="docs/images/en/00-icon.png" width="88" alt="">
 
 # ScreenCapture
 
@@ -38,7 +38,7 @@ There is no window. It lives in the tray, and you only need the shortcuts.
 
 ### Drag and you're done — `Ctrl+Shift+4`
 
-![Region capture](docs/images/03-region.png)
+![Region capture](docs/images/en/03-region.png)
 
 Drag with the crosshair and the file is saved the moment you let go. The size
 readout follows the cursor, and holding `Ctrl` as you release sends it to the
@@ -46,21 +46,21 @@ clipboard instead of a file.
 
 ### The same toolbar as on macOS — `Ctrl+Shift+5`
 
-![Screenshot tools](docs/images/02-toolbar.png)
+![Screenshot tools](docs/images/en/02-toolbar.png)
 
 Whole screen, window, region — plus screen recording and region recording. The
 selection has eight handles, and dragging inside it moves the whole box.
 
 ### Save location, timer, microphone
 
-![Options](docs/images/04-options.png)
+![Options](docs/images/en/04-options.png)
 
 The Options menu from macOS Screenshot, item for item and in the same order —
 with one addition: **Language**.
 
 ### Recording that survives a crash
 
-![Recording indicator](docs/images/05-recording.png)
+![Recording indicator](docs/images/en/05-recording.png)
 
 While recording, a pill at the top of the screen shows elapsed time and a stop
 button. **It never appears in the recording itself.** Frames are written to disk
@@ -69,14 +69,14 @@ still plays.
 
 ### A thumbnail in the corner afterwards
 
-![Floating thumbnail](docs/images/06-thumbnail.png)
+![Floating thumbnail](docs/images/en/06-thumbnail.png)
 
 Click it to open the file, drag it straight into another app, or right-click for
 Open · Show in Folder · Copy · Delete.
 
 ### It tells you how it works on first launch
 
-![Startup guide](docs/images/01-guide.png)
+![Startup guide](docs/images/en/01-guide.png)
 
 An app with no window is easy to lose track of. The shortcuts appear in the middle
 of the screen for five seconds and fade out. The tray menu brings them back
@@ -127,7 +127,7 @@ The app is free and funded by ads. A small toast - about the size of a chat
 notification - slides in above the taskbar **only after a capture** and leaves
 after nine seconds.
 
-![Ad banner](docs/images/08-ad.png)
+![Ad banner](docs/images/en/08-ad.png)
 
 - It is always labelled as an ad and always has a ✕.
 - It is dismissed before a capture starts — **it never ends up in your

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="docs/images/00-icon.png" width="88" alt="">
+<img src="docs/images/zh-Hans/00-icon.png" width="88" alt="">
 
 # 截图 · ScreenCapture
 
@@ -36,40 +36,40 @@ Windows 也有截图工具，但**保存太麻烦**：先进剪贴板，再点�
 
 ### 拖完就好了 — `Ctrl+Shift+4`
 
-![区域截图](docs/images/03-region.png)
+![区域截图](docs/images/zh-Hans/03-region.png)
 
 用十字光标拖出范围，松手的瞬间文件就保存了。拖动时一直显示尺寸；松手时按住
 `Ctrl`，就复制到剪贴板而不保存文件。
 
 ### 和 macOS 一样的工具栏 — `Ctrl+Shift+5`
 
-![截图工具](docs/images/02-toolbar.png)
+![截图工具](docs/images/zh-Hans/02-toolbar.png)
 
 整个屏幕、窗口、区域截图，加上录制整个屏幕和录制选定区域。选区有八个控制点，
 拖动内部可整体移动。
 
 ### 保存位置 · 定时器 · 麦克风
 
-![选项](docs/images/04-options.png)
+![选项](docs/images/zh-Hans/04-options.png)
 
 macOS 截图的选项菜单，条目和顺序都一样 —— 只多了一项：**语言**。
 
 ### 录制中断也不会白录
 
-![录制指示](docs/images/05-recording.png)
+![录制指示](docs/images/zh-Hans/05-recording.png)
 
 录制时屏幕顶部会显示已用时间和停止按钮，**这个提示不会被录进视频里**。视频按片段
 直接写入磁盘，即使录制途中应用被强制关闭，此前录到的内容依然可以正常播放。
 
 ### 截完在右下角停留片刻
 
-![浮动缩略图](docs/images/06-thumbnail.png)
+![浮动缩略图](docs/images/zh-Hans/06-thumbnail.png)
 
 点击打开文件，直接拖进别的应用，或者右键：打开 · 在文件夹中显示 · 复制 · 删除。
 
 ### 第一次启动会先告诉你怎么用
 
-![启动提示](docs/images/01-guide.png)
+![启动提示](docs/images/zh-Hans/01-guide.png)
 
 没有窗口的应用容易让人摸不着头脑。快捷键会在屏幕中央显示 5 秒后自动消失，之后
 随时可以从通知区域菜单再看一次。
@@ -116,7 +116,7 @@ Français · Deutsch · Русский · Italiano · Tiếng Việt
 本应用免费，靠广告维持。**只在截图完成之后**，右下角任务栏上方会滑出一个像聊天通知
 那样的小横幅，9 秒后自动消失。
 
-![广告横幅](docs/images/08-ad.png)
+![广告横幅](docs/images/zh-Hans/08-ad.png)
 
 - 顶部始终标明这是广告，并且始终带有 ✕。
 - 截图开始前会先收起横幅 —— **绝不会出现在截图或录像里**。

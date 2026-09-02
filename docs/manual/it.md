@@ -1,4 +1,4 @@
-# 스크린샷 0.3.0 — Scorciatoie
+# ScreenCapture 0.4.4 — Scorciatoie
 
 Resta nell'area di notifica. Non apre finestre.
 

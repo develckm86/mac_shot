@@ -1,4 +1,4 @@
-# 스크린샷 0.3.0 — Phím tắt
+# ScreenCapture 0.4.4 — Phím tắt
 
 Nằm ở khay hệ thống. Không mở cửa sổ nào.
 

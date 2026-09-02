@@ -1,4 +1,4 @@
-# 스크린샷 0.3.0 — Atalhos
+# ScreenCapture 0.4.4 — Atalhos
 
 Fica na bandeja. Nenhuma janela é aberta.
 

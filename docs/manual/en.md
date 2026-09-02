@@ -1,4 +1,4 @@
-# 스크린샷 0.3.0 — Shortcuts
+# ScreenCapture 0.4.4 — Shortcuts
 
 Lives in the tray. No window opens.
 

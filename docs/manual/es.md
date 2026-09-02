@@ -1,4 +1,4 @@
-# 스크린샷 0.3.0 — Atajos
+# ScreenCapture 0.4.4 — Atajos
 
 Vive en la bandeja. No abre ninguna ventana.
 

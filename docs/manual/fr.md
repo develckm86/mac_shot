@@ -1,4 +1,4 @@
-# 스크린샷 0.3.0 — Raccourcis
+# ScreenCapture 0.4.4 — Raccourcis
 
 Reste dans la zone de notification. Aucune fenêtre ne s'ouvre.
 
