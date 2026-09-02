@@ -1,4 +1,4 @@
-# ScreenCapture 0.4.4 — Atajos
+# MacStyleCapture 0.4.6 — Atajos
 
 Vive en la bandeja. No abre ninguna ventana.
 

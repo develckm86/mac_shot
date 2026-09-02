@@ -1,4 +1,4 @@
-# ScreenCapture 0.4.4 — Scorciatoie
+# MacStyleCapture 0.4.6 — Scorciatoie
 
 Resta nell'area di notifica. Non apre finestre.
 

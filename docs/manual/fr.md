@@ -1,4 +1,4 @@
-# ScreenCapture 0.4.4 — Raccourcis
+# MacStyleCapture 0.4.6 — Raccourcis
 
 Reste dans la zone de notification. Aucune fenêtre ne s'ouvre.
 

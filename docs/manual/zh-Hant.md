@@ -1,4 +1,4 @@
-# ScreenCapture 0.4.4 — 快速鍵
+# MacStyleCapture 0.4.6 — 快速鍵
 
 常駐通知區域，不會開啟視窗。
 

@@ -1,4 +1,4 @@
-# ScreenCapture 0.4.4 — Kurzbefehle
+# MacStyleCapture 0.4.6 — Kurzbefehle
 
 Läuft im Infobereich. Es öffnet sich kein Fenster.
 

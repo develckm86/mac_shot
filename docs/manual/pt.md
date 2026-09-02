@@ -1,4 +1,4 @@
-# ScreenCapture 0.4.4 — Atalhos
+# MacStyleCapture 0.4.6 — Atalhos
 
 Fica na bandeja. Nenhuma janela é aberta.
 

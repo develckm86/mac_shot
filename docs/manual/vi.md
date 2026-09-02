@@ -1,4 +1,4 @@
-# ScreenCapture 0.4.4 — Phím tắt
+# MacStyleCapture 0.4.6 — Phím tắt
 
 Nằm ở khay hệ thống. Không mở cửa sổ nào.
 

@@ -2,24 +2,20 @@
 
 <img src="docs/images/zh-Hans/00-icon.png" width="88" alt="">
 
-# 截图 · ScreenCapture
+# MacStyleCapture
 
 **把 Mac 的截图体验搬到 Windows。**
 拖出一个区域，PNG 当场就落在桌面上。
 
 [한국어](README.md) · [English](README.en.md) · 简体中文 · [日本語](README.ja.md)
 
-### [⬇ 下载 ScreenCapture.exe（Windows 10 · 11 · 64 位）](https://github.com/develckm86/mac_shot/releases/latest/download/ScreenCapture.exe)
+### 正在上架 Microsoft Store
 
-免费 · 免安装 · 无需账号 · 下载后直接运行
+审核通过后，这里会出现安装按钮。免费。
 
-需要录屏功能的话，请一并下载 [`ffmpeg.exe`](https://github.com/develckm86/mac_shot/releases/latest/download/ffmpeg.exe) 并放在**同一个文件夹**里。
-([两个文件打包的 zip](https://github.com/develckm86/mac_shot/releases/latest/download/ScreenCapture-win64.zip))
-
-<!-- Microsoft Store 上架后，取消下面一行的注释并填入链接。
-[<img src="https://get.microsoft.com/images/zh-CN%20dark.svg" width="200" alt="在 Microsoft Store 获取">](https://apps.microsoft.com/detail/你的商店ID)
+<!-- 上架后取消下面一行的注释。
+[<img src="https://get.microsoft.com/images/zh-CN%20dark.svg" width="200" alt="在 Microsoft Store 获取">](https://apps.microsoft.com/detail/9N3Q4GT5RJT0)
 -->
-**Microsoft Store** — 正在准备上架，通过后这里会放上徽章。
 
 </div>
 
@@ -92,15 +88,10 @@ macOS 截图的选项菜单，条目和顺序都一样 —— 只多了一项：
 
 ## 安装
 
-1. 下载 [`ScreenCapture.exe`](https://github.com/develckm86/mac_shot/releases/latest/download/ScreenCapture.exe)，放到任意文件夹。
-2. 双击运行，直接进入通知区域。**无需安装，也不需要管理员权限。**
-3. 需要录屏的话，把 [`ffmpeg.exe`](https://github.com/develckm86/mac_shot/releases/latest/download/ffmpeg.exe) 下载到**同一个文件夹**。
-   没有它也能截图，只是录屏功能不可用。
+**正在上架 Microsoft Store。** 审核通过后即可一键安装，更新也会自动跟上。录屏所需的
+`ffmpeg` 已经打包在内，不需要另外下载。
 
-不想用了直接删掉文件即可，只有设置会留在 `%APPDATA%\ScreenCapture`。
-
-> 可执行文件没有代码签名，首次运行时 SmartScreen 可能会拦一次：
-> 点**更多信息 → 仍要运行**。
+无需管理员权限。卸载方式与其他应用相同。
 
 ## 语言
 

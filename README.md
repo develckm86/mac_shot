@@ -2,24 +2,20 @@
 
 <img src="docs/images/00-icon.png" width="88" alt="">
 
-# 스크린샷 · ScreenCapture
+# MacStyleCapture
 
 **맥의 스크린샷을 윈도우에서 그대로.**
 끌면 그 자리에서 바탕 화면에 PNG 가 떨어집니다.
 
 한국어 · [English](README.en.md) · [简体中文](README.zh-CN.md) · [日本語](README.ja.md)
 
-### [⬇ ScreenCapture.exe 내려받기 (Windows 10 · 11 · 64비트)](https://github.com/develckm86/mac_shot/releases/latest/download/ScreenCapture.exe)
+### Microsoft Store 등록을 진행하고 있습니다
 
-무료 · 설치 필요 없음 · 계정 없음 · 받아서 바로 실행
+승인되면 이 자리에 설치 단추가 붙습니다. 무료입니다.
 
-화면 기록까지 쓰려면 [`ffmpeg.exe`](https://github.com/develckm86/mac_shot/releases/latest/download/ffmpeg.exe) 도 받아 **같은 폴더**에 두세요.
-([두 파일을 한 번에 받는 zip](https://github.com/develckm86/mac_shot/releases/latest/download/ScreenCapture-win64.zip))
-
-<!-- Microsoft Store 등록이 끝나면 아래 두 줄의 주석을 풀고 URL 을 채우세요.
-[<img src="https://get.microsoft.com/images/ko%20dark.svg" width="200" alt="Microsoft Store에서 받기">](https://apps.microsoft.com/detail/여기에-스토어-ID)
+<!-- 스토어 공개 후 아래 주석을 풀면 됩니다.
+[<img src="https://get.microsoft.com/images/ko%20dark.svg" width="200" alt="Microsoft Store에서 받기">](https://apps.microsoft.com/detail/9N3Q4GT5RJT0)
 -->
-**Microsoft Store** — 심사 준비 중입니다. 등록되면 이 자리에 배지가 붙습니다.
 
 </div>
 
@@ -96,15 +92,11 @@
 
 ## 설치
 
-1. [`ScreenCapture.exe`](https://github.com/develckm86/mac_shot/releases/latest/download/ScreenCapture.exe) 를 받아 원하는 폴더에 둡니다.
-2. 실행하면 트레이에 들어갑니다. **설치 과정도, 관리자 권한도 필요 없습니다.**
-3. 화면 기록을 쓸 거라면 [`ffmpeg.exe`](https://github.com/develckm86/mac_shot/releases/latest/download/ffmpeg.exe) 를 받아 **같은 폴더**에 둡니다.
-   캡처만 쓸 거면 없어도 됩니다 — 기록 기능만 조용히 비활성화됩니다.
+**Microsoft Store 등록을 진행하고 있습니다.** 승인되면 스토어에서 한 번에 설치되고,
+업데이트도 알아서 따라옵니다. 화면 기록에 쓰는 `ffmpeg` 도 함께 들어가므로 따로
+받을 것이 없습니다.
 
-지우고 싶으면 파일을 지우면 끝입니다. 설정만 `%APPDATA%\ScreenCapture` 에 남습니다.
-
-> 서명되지 않은 실행 파일이라 처음 실행할 때 SmartScreen 이 한 번 물어볼 수 있습니다.
-> **추가 정보 → 실행**을 누르면 됩니다.
+관리자 권한은 필요 없습니다. 지울 때도 다른 앱과 똑같이 제거하면 됩니다.
 
 ## 언어
 

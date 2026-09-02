@@ -2,24 +2,20 @@
 
 <img src="docs/images/en/00-icon.png" width="88" alt="">
 
-# ScreenCapture
+# MacStyleCapture
 
 **The Mac screenshot experience, on Windows.**
 Drag a region and the PNG lands on your desktop right there.
 
 [한국어](README.md) · English · [简体中文](README.zh-CN.md) · [日本語](README.ja.md)
 
-### [⬇ Download ScreenCapture.exe (Windows 10 · 11 · 64-bit)](https://github.com/develckm86/mac_shot/releases/latest/download/ScreenCapture.exe)
+### Coming to the Microsoft Store
 
-Free · No installer · No account · Run it straight from the download
+The install button will appear here once the listing is approved. It's free.
 
-For screen recording, also grab [`ffmpeg.exe`](https://github.com/develckm86/mac_shot/releases/latest/download/ffmpeg.exe) and keep it **in the same folder**.
-([Both files in one zip](https://github.com/develckm86/mac_shot/releases/latest/download/ScreenCapture-win64.zip))
-
-<!-- Once the Microsoft Store listing is live, uncomment the line below and fill in the URL.
-[<img src="https://get.microsoft.com/images/en%20dark.svg" width="200" alt="Get it from Microsoft">](https://apps.microsoft.com/detail/YOUR-STORE-ID)
+<!-- Once the listing is live, uncomment the line below.
+[<img src="https://get.microsoft.com/images/en%20dark.svg" width="200" alt="Get it from Microsoft">](https://apps.microsoft.com/detail/9N3Q4GT5RJT0)
 -->
-**Microsoft Store** — submission in progress. The badge will appear here once it is live.
 
 </div>
 
@@ -101,15 +97,11 @@ they do on a Mac.
 
 ## Install
 
-1. Download [`ScreenCapture.exe`](https://github.com/develckm86/mac_shot/releases/latest/download/ScreenCapture.exe) and put it wherever you like.
-2. Run it. It goes straight to the tray. **No installer, no admin rights.**
-3. For screen recording, also download [`ffmpeg.exe`](https://github.com/develckm86/mac_shot/releases/latest/download/ffmpeg.exe) into the **same folder**.
-   Without it, capture still works — only recording is unavailable.
+**The Microsoft Store listing is in progress.** Once it is approved, the app installs in
+one click and updates itself. `ffmpeg`, which screen recording uses, ships inside the
+package — there is nothing else to download.
 
-To remove it, delete the file. Only your settings stay, in `%APPDATA%\ScreenCapture`.
-
-> The executable is unsigned, so SmartScreen may ask once on first run:
-> **More info → Run anyway**.
+No admin rights needed. Uninstall it the same way as any other app.
 
 ## Languages
 

@@ -2,24 +2,20 @@
 
 <img src="docs/images/ja/00-icon.png" width="88" alt="">
 
-# スクリーンショット · ScreenCapture
+# MacStyleCapture
 
 **Mac のスクリーンショットを、そのまま Windows で。**
 範囲をドラッグすれば、その場でデスクトップに PNG が保存されます。
 
 [한국어](README.md) · [English](README.en.md) · [简体中文](README.zh-CN.md) · 日本語
 
-### [⬇ ScreenCapture.exe をダウンロード（Windows 10 · 11 · 64bit）](https://github.com/develckm86/mac_shot/releases/latest/download/ScreenCapture.exe)
+### Microsoft Store で公開準備中です
 
-無料 · インストール不要 · アカウント不要 · ダウンロードしてそのまま実行
+承認されると、ここにインストールボタンが入ります。無料です。
 
-画面収録も使うなら [`ffmpeg.exe`](https://github.com/develckm86/mac_shot/releases/latest/download/ffmpeg.exe) も入手して**同じフォルダー**に置いてください。
-([2 つをまとめた zip](https://github.com/develckm86/mac_shot/releases/latest/download/ScreenCapture-win64.zip))
-
-<!-- Microsoft Store の公開後、下の行のコメントを外して URL を入れてください。
-[<img src="https://get.microsoft.com/images/ja%20dark.svg" width="200" alt="Microsoft Store で入手">](https://apps.microsoft.com/detail/ストアID)
+<!-- 公開後、下の行のコメントを外してください。
+[<img src="https://get.microsoft.com/images/ja%20dark.svg" width="200" alt="Microsoft Store で入手">](https://apps.microsoft.com/detail/9N3Q4GT5RJT0)
 -->
-**Microsoft Store** — 申請準備中です。公開されたらここにバッジが入ります。
 
 </div>
 
@@ -96,15 +92,11 @@ Mac の `Cmd` を `Ctrl` に置き換えただけです。
 
 ## インストール
 
-1. [`ScreenCapture.exe`](https://github.com/develckm86/mac_shot/releases/latest/download/ScreenCapture.exe) をダウンロードし、好きなフォルダーに置きます。
-2. 実行するとそのまま通知領域に入ります。**インストールも管理者権限も不要です。**
-3. 画面収録を使うなら [`ffmpeg.exe`](https://github.com/develckm86/mac_shot/releases/latest/download/ffmpeg.exe) を**同じフォルダー**に置きます。
-   なくてもキャプチャは動きます — 収録だけが使えなくなります。
+**Microsoft Store で公開準備中です。** 承認されればストアからワンクリックで入り、
+更新も自動で追いかけます。画面収録に使う `ffmpeg` もパッケージに同梱されるので、
+別途ダウンロードするものはありません。
 
-不要になったらファイルを削除するだけです。設定だけが `%APPDATA%\ScreenCapture` に残ります。
-
-> 署名なしの実行ファイルなので、初回起動時に SmartScreen が一度確認してきます。
-> **詳細情報 → 実行**を選んでください。
+管理者権限は不要です。削除も他のアプリと同じ手順です。
 
 ## 言語
 

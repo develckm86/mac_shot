@@ -1,4 +1,4 @@
-# ScreenCapture 0.4.4 — Shortcuts
+# MacStyleCapture 0.4.6 — Shortcuts
 
 Lives in the tray. No window opens.
 

@@ -1,4 +1,4 @@
-# ScreenCapture 0.4.4 — 快捷键
+# MacStyleCapture 0.4.6 — 快捷键
 
 常驻通知区域，不会打开窗口。
 
