@@ -123,8 +123,9 @@ Per-language manuals live in [`docs/manual/`](docs/manual).
 
 ## About the ads
 
-The app is free and funded by ads. A square banner appears above the taskbar
-**only after a capture**, for nine seconds.
+The app is free and funded by ads. A small toast - about the size of a chat
+notification - slides in above the taskbar **only after a capture** and leaves
+after nine seconds.
 
 ![Ad banner](docs/images/08-ad.png)
 
