@@ -1,6 +1,6 @@
 {
   "ttl_hours": 6,
-  "_comment": "ScreenCapture 광고 피드. 앱이 캡처 후 우하단에 띄우는 배너 목록이다. 여기만 고치면 앱을 다시 배포하지 않아도 배너가 바뀐다. lang 을 비워 두면 모든 언어에 나온다. weight 는 노출 비율.",
+  "_comment": "ScreenCapture 광고 피드. 앱이 캡처 후 우하단에 띄우는 배너 목록이다. 여기만 고치면 앱을 다시 배포하지 않아도 배너가 바뀐다(TTL 6시간). 배너 이미지는 340x100 PNG. lang 을 비워 두면 모든 언어에 나온다. weight 는 노출 비율.",
   "ads": [
     {
       "id": "house-ko",
